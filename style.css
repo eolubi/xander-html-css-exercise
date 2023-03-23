@@ -73,3 +73,19 @@ h2{
     color: var(--aqua);
     display: block;
 }
+
+/*Contact section*/
+
+#Contact-me{
+    background-color: #4b0d49;
+    text-align: center;
+    padding: 5rem 2rem 0.5rem 2rem;
+}
+
+#Contact-me p{
+    margin: 5rem;
+}
+
+#Contact-me a{
+    color: var(--aqua);
+}
