@@ -24,6 +24,8 @@ html {
     box-sizing: inherit;
 }
 
+
+
 body{
     font-family: var(--sans);
     padding: 0;
@@ -48,4 +50,26 @@ a:hover{
 
 h2{
     font-size: 3rem;
+}
+
+/* Intro section */
+
+#intro{
+    padding : 0 2rem 10rem 2rem;
+}
+
+#intro p{
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+#intro .name{
+    font-family: var(--mono);
+}
+
+.name span{
+    font-family: var(--sans);
+    font-size: 4rem;
+    color: var(--aqua);
+    display: block;
 }
